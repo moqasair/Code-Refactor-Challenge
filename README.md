@@ -14,9 +14,9 @@ An existing wesbite requires  its code refactored so that it meats accessiblity 
 ## Usage
 
 * Bullet list
-* Nested bullet
-* Sub-nested bullet etc
-* Bullet list item 2
+              * Nested bullet
+                  * Sub-nested bullet etc
+          * Bullet list item 2
 
 ## Credits
 ## License
