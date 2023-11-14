@@ -11,16 +11,16 @@ An existing wesbite requires  its code refactored so that it meats accessiblity 
 
 ## Usage 
 ![Screenshot of VS Code](assets/images/2023-11-14.png)
-Visual studio code is used to edit adn alter the code to make the website more accessible.
+###Visual studio code is used to edit adn alter the code to make the website more accessible.
 
 ## Credits
-https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax 
-https://github.com/microsoft/vscode
-https://www.w3schools.com/html/html5_semantic_elements.asp 
-https://www.w3schools.com/tags/att_img_alt.asp
+###ttps://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-###writing-and-formatting-syntax 
+###https://github.com/microsoft/vscode
+###https://www.w3schools.com/html/html5_semantic_elements.asp 
+###https://www.w3schools.com/tags/att_img_alt.asp
 
 ## License 
 
-Copyright (c) Microsoft Corporation. All rights reserved.
+###Copyright (c) Microsoft Corporation. All rights reserved.
 
-Licensed under the MIT license.
+###Licensed under the MIT license.
