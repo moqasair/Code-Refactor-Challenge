@@ -8,11 +8,10 @@ An existing wesbite requires  its code refactored so that it meats accessiblity 
           * Title elements contain a concise, descriptive title
   
 
-## Usage
-*HTML elements follow a logical structure independent of styling and positioning
-              * Image and icon elements contain accessible alt attributes
-                  *Heading attributes fall in sequential order
-          * Title elements contain a concise, descriptive title
-
+## Usage 
+- Bullet list
+              - Nested bullet
+                  - Sub-nested bullet etc
+          - Bullet list item 2
 ## Credits
 ## License
