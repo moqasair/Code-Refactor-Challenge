@@ -15,8 +15,11 @@ An existing wesbite requires  its code refactored so that it meats accessiblity 
 
 ## Credits
 ttps://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax 
+
 https://github.com/microsoft/vscode
+
 https://www.w3schools.com/html/html5_semantic_elements.asp 
+
 https://www.w3schools.com/tags/att_img_alt.asp
 
 ## License 
