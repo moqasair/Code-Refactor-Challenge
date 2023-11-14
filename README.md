@@ -10,7 +10,7 @@ An existing wesbite requires  its code refactored so that it meats accessiblity 
   
 
 ## Usage 
-alt![Screenshot of VS Code](assets/images/2023-11-14.png)
+![Screenshot of VS Code](assets/images/2023-11-14.png)
 
 ## Credits
 ## License
